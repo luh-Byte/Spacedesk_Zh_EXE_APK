@@ -1,0 +1,7 @@
+# 生成的中间产物
+__pycache__/
+*.pyc
+work/
+*.idsig
+spacedesk_zh_unsigned.apk
+spacedesk_zh_aligned.apk

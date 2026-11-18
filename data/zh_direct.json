@@ -1,0 +1,106 @@
+[
+ {
+  "old": "Device Name : ",
+  "new": "设备名称: "
+ },
+ {
+  "old": "Device ID : ",
+  "new": "设备 ID: "
+ },
+ {
+  "old": "Product: ",
+  "new": "产品: "
+ },
+ {
+  "old": "GUID: ",
+  "new": "标识: "
+ },
+ {
+  "old": "Path: ",
+  "new": "路径: "
+ },
+ {
+  "old": "Security Software Products:",
+  "new": "已安装的安全软件:"
+ },
+ {
+  "old": "Antivirus Product: ",
+  "new": "杀毒软件产品: "
+ },
+ {
+  "old": "Firewall Product: ",
+  "new": "防火墙产品: "
+ },
+ {
+  "old": "AntiSpyware Product: ",
+  "new": "反间谍软件产品: "
+ },
+ {
+  "old": "Machine Name: ",
+  "new": "计算机名: "
+ },
+ {
+  "old": "Operating System: ",
+  "new": "操作系统: "
+ },
+ {
+  "old": "HardwareID[",
+  "new": "硬件ID["
+ },
+ {
+  "old": "Service : ",
+  "new": "服务: "
+ },
+ {
+  "old": "Status : ",
+  "new": "状态: "
+ },
+ {
+  "old": "Version: ",
+  "new": "版本: "
+ },
+ {
+  "old": "Status: Running",
+  "new": "状态: 运行中"
+ },
+ {
+  "old": "Service Type: ",
+  "new": "服务类型: "
+ },
+ {
+  "old": "Error code: ",
+  "new": "错误代码: "
+ },
+ {
+  "old": "Capability: ",
+  "new": "功能号: "
+ },
+ {
+  "old": "No Third Party Antivirus Products",
+  "new": "未检测到第三方杀毒软件"
+ },
+ {
+  "old": "No Third Party Firewall Products",
+  "new": "未检测到第三方防火墙"
+ },
+ {
+  "old": "No Third Party Anti-Spyware Products",
+  "new": "未检测到第三方反间谍软件"
+ },
+ {
+  "old": "!!! ATTENTION - ANDROID USB CABLE COMPATIBILITY !!!\r\n \r\nTurning ON disables other USB cable applications!\r\nTurn OFF to enable other applications again!\r\n \r\nApplications affected:\r\n- File Transfer via USB\r\n- Lenovo SmartConnect via USB\r\n- Lenovo LINK via USB\r\n- Duet Display via USB\r\n- Super Display via USB\r\netc.\r\n \r\nIn case of Android USB cable issues:\r\n- Slowly unplug and plug USB cable a few times.\r\n- Restart Android mobile device.\r\n- Restart Windows PC.",
+  "new": "!!! 注意：安卓 USB 线缆兼容性 !!!\r\n \r\n开启后会禁用其他 USB 线缆应用！\r\n关闭后可恢复其他应用！\r\n \r\n受影响的应用：\r\n- 文件传输(USB)\r\n- 联想 SmartConnect(USB)\r\n- 联想 LINK(USB)\r\n- Duet Display(USB)\r\n- Super Display(USB)\r\n等。\r\n \r\n安卓 USB 线缆故障处理：\r\n- 缓慢插拔 USB 线缆数次。\r\n- 重启安卓移动设备。\r\n- 重启电脑。​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+ },
+ {
+  "old": "In case of iOS USB cable issues:\r\n- Try original USB cable from Apple.",
+  "new": "苹果 USB 线缆故障处理：\r\n- 请使用苹果原装 USB 线缆。​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+ },
+ {
+  "old": "Apple Mobile Device Service is stopped. \r\nPlease start it on Windows Services desktop app.",
+  "new": "Apple 移动设备服务未启动。\r\n请在 Windows 服务中启动它。​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+ },
+ {
+  "old": "Apple Mobile Device Process is stopped. \r\nPlease open iTunes or Apple Devices app",
+  "new": "Apple 移动设备进程未启动。\r\n请打开 iTunes 或 Apple Devices 应用。​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+ }
+]
